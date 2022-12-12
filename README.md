@@ -1,2 +1,2 @@
 # aggritvik.github.io
-Person page
+Personal page
